@@ -21,9 +21,8 @@ Whether you're a beginner starting out with Python or just revising fundamental 
 
 ---
 
-## 📁 Folder Structure
+## 🗂 Directory Map
 
-```
 
 Python-Programs/
 ├─ basic/                 # Basic syntax, I/O, conditionals
@@ -33,7 +32,6 @@ Python-Programs/
 ├─ lists/                 # List operations and algorithms
 ├─ README.md              # Documentation
 
-````
 
 > Folder structure may vary depending on how examples are organized. Feel free to modify as needed.
 
