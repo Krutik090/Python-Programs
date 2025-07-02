@@ -33,8 +33,6 @@ Python-Programs/
 ├─ README.md              # Documentation
 
 
-> Folder structure may vary depending on how examples are organized. Feel free to modify as needed.
-
 ---
 
 ## 🚀 How to Run
